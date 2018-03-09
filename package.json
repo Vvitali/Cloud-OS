@@ -1,0 +1,19 @@
+{
+  "name": "cloudos",
+  "version": "0.0.1",
+  "description": "OS for browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vvitali/Cloud-OS.git"
+  },
+  "author": "Vitaliy Vorobyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vvitali/Cloud-OS/issues"
+  },
+  "homepage": "https://github.com/Vvitali/Cloud-OS#readme"
+}
